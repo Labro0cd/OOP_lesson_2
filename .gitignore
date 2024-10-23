@@ -27,3 +27,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/OOP_lesson_2.iml
+/.idea/
